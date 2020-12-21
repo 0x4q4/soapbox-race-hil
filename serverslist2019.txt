@@ -1,5 +1,5 @@
 WorldUnited Official;http://70.38.78.206:8080
-WOPLv4 - We're one family;http://connect.worldonline.pl
+WOPLv4 - We're one family;http://worldonline.pl:2137
 Nightriderz;http://horizon.nightriderz.world:8080
 World Evolved RU;http://92.63.111.195:8680/soapbox-race-core
 Freeroam Sparkserverk;https://core.sparkserver.eu/soapbox-race-core
